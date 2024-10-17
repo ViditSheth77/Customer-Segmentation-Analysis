@@ -1,6 +1,7 @@
 # 📊 Customer Segmentation Analysis
 A complete pipeline for customer segmentation using RFM analysis (Recency, Frequency, Monetary), clustering with KMeans, visualizations, and NLP-based sentiment analysis. This project provides insights into customer behavior and uses machine learning techniques for segmentation and predictive modeling.
-🚀 Features
+
+#🚀 Features
 RFM Analysis to classify customers based on their purchase behavior.
 KMeans Clustering to group customers into segments.
 Data Visualizations using Seaborn, Matplotlib, and Plotly.
@@ -36,7 +37,7 @@ Copy code
 ```path = kagglehub.dataset_download("carrie1/ecommerce-data")```
 
 
-🧠 Project Overview
+#🧠 Project Overview
 
 1. Data Cleaning and Preprocessing
 Drop rows with missing customer IDs.
@@ -67,7 +68,7 @@ Apply Logistic Regression to predict repurchases.
 Evaluate model performance using a Confusion Matrix and Classification Report.
 
 
-📊 Key Visualizations
+#📊 Key Visualizations
 -3D Cluster Plot of Customer Segments.
 -Top 10 Countries by Revenue.
 -Monthly Revenue Trend.
@@ -75,22 +76,22 @@ Evaluate model performance using a Confusion Matrix and Classification Report.
 
 
 
-🎯 Future Improvements
+#🎯 Future Improvements
 Add Dash App for interactive dashboards.
 Explore other clustering methods like DBSCAN or Hierarchical Clustering.
 Enhance predictive analytics with Random Forest or XGBoost models.
 Deploy the analysis on a cloud platform for live monitoring.
 
-🤝 Contributing
+#🤝 Contributing
 Feel free to fork this repository and submit pull requests to enhance the project!
 
-🧑‍💻 Author
+#🧑‍💻 Author
 Vidit Sheth
 
-💬 Feedback
+#💬 Feedback
 If you have any questions or feedback, feel free to reach out via GitHub Issues.
 
-🔗 Links
+#🔗 Links
 Kaggle Dataset
 Project Notebook on Colab
 
