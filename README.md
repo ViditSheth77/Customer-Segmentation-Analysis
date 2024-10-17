@@ -1,4 +1,4 @@
-📊 Customer Segmentation Analysis
+# 📊 Customer Segmentation Analysis
 A complete pipeline for customer segmentation using RFM analysis (Recency, Frequency, Monetary), clustering with KMeans, visualizations, and NLP-based sentiment analysis. This project provides insights into customer behavior and uses machine learning techniques for segmentation and predictive modeling.
 🚀 Features
 RFM Analysis to classify customers based on their purchase behavior.
@@ -8,9 +8,9 @@ Sentiment Analysis with VADER and TextBlob to analyze customer reviews.
 WordCloud Generation for visualizing text data.
 Logistic Regression for predicting repurchases.
 Dash Integration for building interactive dashboards (optional).
-🗂️ Dataset
+# 🗂️ Dataset
 The dataset is sourced from Kaggle's Ecommerce Data and contains transactional records from a UK-based online retailer.
-📋 Requirements
+# 📋 Requirements
 Make sure you have the following packages installed:
 bash
 Copy code
@@ -19,10 +19,10 @@ pip install pandas scikit-learn matplotlib seaborn plotly dash nltk textblob wor
 
 🔧 Installation and Usage
 Clone the repository:
-bash
+```bash
 Copy code
 git clone https://github.com/your-username/customer-segmentation.git
-cd customer-segmentation
+cd customer-segmentation```
 
 
 Run the notebook locally:
