@@ -1,4 +1,4 @@
-# 📊 #Customer Segmentation Analysis
+# 📊 Customer Segmentation Analysis
 A complete pipeline for customer segmentation using RFM analysis (Recency, Frequency, Monetary), clustering with KMeans, visualizations, and NLP-based sentiment analysis. This project provides insights into customer behavior and uses machine learning techniques for segmentation and predictive modeling.
 🚀 Features
 RFM Analysis to classify customers based on their purchase behavior.
