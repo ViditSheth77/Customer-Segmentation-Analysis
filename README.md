@@ -1,7 +1,7 @@
 # 📊 Customer Segmentation Analysis
 A complete pipeline for customer segmentation using RFM analysis (Recency, Frequency, Monetary), clustering with KMeans, visualizations, and NLP-based sentiment analysis. This project provides insights into customer behavior and uses machine learning techniques for segmentation and predictive modeling.
 
-#🚀 Features
+## 🚀 Features
 RFM Analysis to classify customers based on their purchase behavior.
 KMeans Clustering to group customers into segments.
 Data Visualizations using Seaborn, Matplotlib, and Plotly.
@@ -9,9 +9,9 @@ Sentiment Analysis with VADER and TextBlob to analyze customer reviews.
 WordCloud Generation for visualizing text data.
 Logistic Regression for predicting repurchases.
 Dash Integration for building interactive dashboards (optional).
-# 🗂️ Dataset
+## 🗂️ Dataset
 The dataset is sourced from Kaggle's Ecommerce Data and contains transactional records from a UK-based online retailer.
-# 📋 Requirements
+## 📋 Requirements
 Make sure you have the following packages installed:
 bash
 Copy code
@@ -22,8 +22,10 @@ pip install pandas scikit-learn matplotlib seaborn plotly dash nltk textblob wor
 Clone the repository:
 bash
 Copy code
-```git clone https://github.com/your-username/customer-segmentation.git```
-```cd customer-segmentation```
+```
+git clone https://github.com/your-username/customer-segmentation.git
+cd customer-segmentation
+```
 
 
 Run the notebook locally:
@@ -31,11 +33,11 @@ Open Google Colab or Jupyter Notebook.
 Load the Customer Segmentation Analysis.ipynb notebook.
 Dataset Download:
 Download the dataset using the KaggleHub API:
-python
-Copy code
-```import kagglehub```
-```path = kagglehub.dataset_download("carrie1/ecommerce-data")```
 
+```
+import kagglehub
+path = kagglehub.dataset_download("carrie1/ecommerce-data")
+```
 
 # 🧠 Project Overview
 
